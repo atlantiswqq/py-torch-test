@@ -1,3 +1,4 @@
-/static/
-/output/
+/static/*
+/output/*
 __pycache__/
+/.idea
